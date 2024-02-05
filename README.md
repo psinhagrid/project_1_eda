@@ -1,11 +1,6 @@
-The dataset file is uploaded in git and relative path is given in the program. 
+This Project is to analysis the correlation between different Quintiles and Stunting in developed and Under Developed Countries. 
+The analysis is first done through observations of patterns through graph analysis, then also proved mathematically.
 
-The git reposetory also includes PDF of story/ blog post along with PDF format and latex format made using online pdf to latex converter. Please let me know if i have to manually program the latex file, I will learn to do it and try to implement it.  
+Repository includes a blog post in pdf, number and latex file containing a blog bost explaining the methedology in a story telling manner. 
 
-I have also included the requirements file. 
-
-I have used anaconda navigator's jupyter notebook, because of which the requirements.txt file  looked different compared to that of my friends. 
-
-This is my first time using GitHub, I was having issues uploading into git. I asked some full time employee for assistance,
-they helped me in making the repo and uploading my files in it. If there is some issue in opening / pulling files, please let me know and I will try to rectify it as soon as possible.
-
+Repo also has jupyter file which is well documented and self explanatory. 
