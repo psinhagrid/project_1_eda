@@ -1,6 +1,1 @@
-This Project is to analysis the correlation between different Quintiles and Stunting in developed and Under Developed Countries. 
-The analysis is first done through observations of patterns through graph analysis, then also proved mathematically.
-
-Repository includes a blog post in pdf, number and latex file containing a blog bost explaining the methedology in a story telling manner. 
-
-Repo also has jupyter file which is well documented and self explanatory. 
+The goal of this study is to analyse the significant issue of childhood stunting worldwide. It employs current research to identify the benefits and drawbacks of aiding countries in lowering the stunting of children. Additionally, it offers excellent advice and a practical example that the World Health Organisation may use to assist solve this major issue.
